@@ -1,0 +1,6 @@
+DepartmentMapper:实现部门的增删
+EmployeeMapper:显示员工数据，修改密码
+MeetingMapper:添加会议与会议成员，删除会议与删除原因
+MeetingParticpantsMapper:显示会议参加的成员
+MeetingRoomMapper：添加会议室和更改会议室
+
